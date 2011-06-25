@@ -53,9 +53,4 @@ public class Trie {
       return false;
     }
   }
-
-  public String getMostPopularPrefix() {
-    // TODO Auto-generated method stub
-    return null;
-  }
 }
